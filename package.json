@@ -1,0 +1,23 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armap99/my_launchx_app.git"
+  },
+  "author": "armap99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armap99/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/armap99/my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
